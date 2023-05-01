@@ -5,5 +5,4 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://behance.net/lucari)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://behance.net/lucari)
 
-![Graphic](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslucari&theme=dracula)
 
